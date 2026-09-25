@@ -1,6 +1,7 @@
 # SOC-Incident-Triage-Investigation
 SOC investigation lab covering alert triage, log analysis, IOC investigation, incident reconstruction, MITRE ATT&amp;CK mapping and response recommendations.
 
+## Initial assessment
 Investigation objective
 In this project I will determine whether the observed PowerShell activity represents legitimate administrative activity, a false positive, or a potential security incident. If malicious activity is suspected, I will 
 1)identify the affected host, 
